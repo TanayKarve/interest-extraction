@@ -17,4 +17,7 @@ Supports:
 - [ ] probability wise selection of objects
 - [ ] save selected object region to an image
 
+[Demo](bit.ly/ttkarve)
+
 tanaykarve@gmail.com
+
